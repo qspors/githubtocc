@@ -1,0 +1,4 @@
+boto3
+botocore
+pygit2
+requests
